@@ -1,0 +1,30 @@
+var json_CabecerasDistritalesyParajes_4 = {
+"type": "FeatureCollection",
+"name": "CabecerasDistritalesyParajes_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Las Catitas", "Tipo": "Cabecera distrital", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -68.0442637, -33.302533 ] } },
+{ "type": "Feature", "properties": { "Name": "La Dormida", "Tipo": "Cabecera distrital", "Distrito": "La Dormida" }, "geometry": { "type": "Point", "coordinates": [ -67.916809, -33.3486375 ] } },
+{ "type": "Feature", "properties": { "Name": "Los Lotes", "Tipo": "Paraje", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -68.0029504, -33.3177254 ] } },
+{ "type": "Feature", "properties": { "Name": "La Josefa", "Tipo": "Paraje", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -67.6952923, -32.8995342 ] } },
+{ "type": "Feature", "properties": { "Name": "Las Catitas Vieja", "Tipo": "Paraje", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -68.0927621, -33.2796571 ] } },
+{ "type": "Feature", "properties": { "Name": "La Cieneguita", "Tipo": "Paraje", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -67.8664809, -33.1608263 ] } },
+{ "type": "Feature", "properties": { "Name": "Pichi Ciego", "Tipo": "Paraje", "Distrito": "Las Catitas" }, "geometry": { "type": "Point", "coordinates": [ -68.0782913, -33.5857642 ] } },
+{ "type": "Feature", "properties": { "Name": "Comandante Salas", "Tipo": "Paraje", "Distrito": "Ñacuñán" }, "geometry": { "type": "Point", "coordinates": [ -68.0083388, -33.8514579 ] } },
+{ "type": "Feature", "properties": { "Name": "El Marcado", "Tipo": "Cabecera distrital", "Distrito": "El Marcado" }, "geometry": { "type": "Point", "coordinates": [ -68.1884972, -33.108655 ] } },
+{ "type": "Feature", "properties": { "Name": "Villa Cabecera", "Tipo": "Cabecera departamental", "Distrito": "Villa Cabecera" }, "geometry": { "type": "Point", "coordinates": [ -68.1509189, -33.2540684 ] } },
+{ "type": "Feature", "properties": { "Name": "12 de Octubre", "Tipo": "Cabecera distrital", "Distrito": "12 de Octubre" }, "geometry": { "type": "Point", "coordinates": [ -68.2552676, -33.1968984 ] } },
+{ "type": "Feature", "properties": { "Name": "Don Humberto", "Tipo": "Paraje", "Distrito": "12 de Octubre" }, "geometry": { "type": "Point", "coordinates": [ -68.234921934979511, -33.208073665931096 ] } },
+{ "type": "Feature", "properties": { "Name": "Col. Santa Rita", "Tipo": "Paraje", "Distrito": "12 de Octubre" }, "geometry": { "type": "Point", "coordinates": [ -68.2772148, -33.2257527 ] } },
+{ "type": "Feature", "properties": { "Name": "25 de Mayo", "Tipo": "Paraje", "Distrito": "12 de Octubre" }, "geometry": { "type": "Point", "coordinates": [ -68.2851996, -33.1695125 ] } },
+{ "type": "Feature", "properties": { "Name": "El Ramblón", "Tipo": "Paraje", "Distrito": "El Marcado" }, "geometry": { "type": "Point", "coordinates": [ -68.2413187, -33.1281378 ] } },
+{ "type": "Feature", "properties": { "Name": "Balde de Piedra", "Tipo": "Paraje", "Distrito": "Villa Cabecera" }, "geometry": { "type": "Point", "coordinates": [ -68.0665385, -33.0523331 ] } },
+{ "type": "Feature", "properties": { "Name": "El Divisadero", "Tipo": "Paraje", "Distrito": "12 de Octubre" }, "geometry": { "type": "Point", "coordinates": [ -68.2631783, -33.2826147 ] } },
+{ "type": "Feature", "properties": { "Name": "Col. San Jorge", "Tipo": "Paraje", "Distrito": "La Dormida" }, "geometry": { "type": "Point", "coordinates": [ -67.9499251, -33.3774125 ] } },
+{ "type": "Feature", "properties": { "Name": "Parrales Mendocinos", "Tipo": "Paraje", "Distrito": "La Dormida" }, "geometry": { "type": "Point", "coordinates": [ -67.8635042, -33.3880933 ] } },
+{ "type": "Feature", "properties": { "Name": "Las Trincheras", "Tipo": "Paraje", "Distrito": "Villa Cabecera" }, "geometry": { "type": "Point", "coordinates": [ -68.121517, -33.2623635 ] } },
+{ "type": "Feature", "properties": { "Name": "La Costa", "Tipo": "Paraje", "Distrito": "Villa Cabecera" }, "geometry": { "type": "Point", "coordinates": [ -68.180113066609522, -33.243084437333572 ] } },
+{ "type": "Feature", "properties": { "Name": "Gob. Civit", "Tipo": "Paraje", "Distrito": "La Dormida" }, "geometry": { "type": "Point", "coordinates": [ -67.9529412, -33.339095 ] } },
+{ "type": "Feature", "properties": { "Name": "Ñacuñán", "Tipo": "Cabecera distrital", "Distrito": "Ñacuñán" }, "geometry": { "type": "Point", "coordinates": [ -67.9560155, -34.0450767 ] } }
+]
+}
